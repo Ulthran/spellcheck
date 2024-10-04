@@ -12,6 +12,7 @@ gem "turbo-rails"
 gem "jbuilder"
 gem "rubocop" # development
 gem "rubocop-rails-omakase" # development
+gem "brakeman" # development
 
 group :development, :test do
   gem "debug"
