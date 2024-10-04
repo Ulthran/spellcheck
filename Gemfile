@@ -10,6 +10,8 @@ gem "sprockets-rails"
 gem "stimulus-rails"
 gem "turbo-rails"
 gem "jbuilder"
+gem "rubocop" # development
+gem "rubocop-rails-omakase" # development
 
 group :development, :test do
   gem "debug"
